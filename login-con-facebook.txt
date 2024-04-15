@@ -1,0 +1,3 @@
+n 2005, Linus Torvalds, el creador del kernel Linux, creó Git como una herramienta de control de versiones para su proyecto de desarrollo de software. Git se basa en el modelo de almacenamiento en índice y utiliza un modelo de ramificación para permitir a varios desarrolladores trabajar en paralelo en diferentes características o ramas del código fuente.
+
+Git se hizo muy popular debido a su eficiencia y facilidad de uso. Sus características únicas, como la capacidad de deshacer cambios, fusionar ramas y colaborar en proyectos grandes, lo convirtieron en una herramienta ampliamente utilizada en la comunidad de desarrollo de software.
